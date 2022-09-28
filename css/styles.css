@@ -1,0 +1,40 @@
+.container{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+h1{
+  font-family: Pacifico;
+  margin: 30px;
+  font-size: 7rem;
+  color: #00FFD1;
+  text-shadow: 5px 0 black;
+}
+
+img{
+  width: 70%;
+}
+
+.btn{
+  border-radius: 5px;
+  margin:10px;
+  padding: 5px;
+  font-size: 1rem;
+  background-color: #E8DFCA;
+}
+
+.player{
+  font-family: Indie Flower;
+  font-size: 2rem;
+  color: #00FFD1;
+}
+
+body{
+  background-color: #2B4865;
+}
